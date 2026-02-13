@@ -126,9 +126,9 @@ required_cols <- c(
 
 missing_cols <- setdiff(required_cols, names(subscriptions))
 if (length(missing_cols) > 0) {
-  cat("⚠️  WARNING: Missing required columns:", paste(missing_cols, collapse = ", "), "\n")
+  cat("WARNING: Missing required columns:", paste(missing_cols, collapse = ", "), "\n")
 } else {
-  cat("✓ All required columns present\n")
+  cat("All required columns present\n")
 }
 
 # Check 2: Date validity
