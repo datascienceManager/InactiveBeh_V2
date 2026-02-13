@@ -91,7 +91,7 @@ python create_churn_presentation.py
 
 2. **Churn Insights**
    - Overall churn rate: X%
-   - Churn by product (AFCON vs ML 4K vs ML Shows vs ML Total)
+   - Churn by product (AFC vs ML 4K vs ML Shows vs ML Total)
    - Churn by country (Egypt, UAE, Morocco, Iraq, Jordan)
    - Churn by offer period (daily, monthly, 6-months, custom)
    - Voluntary vs Involuntary breakdown
